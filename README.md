@@ -52,4 +52,4 @@ Portfolio of data science projects completed for academic and professional devel
 
 ## Contact
 
-If you have any questions or would like to discuss my work, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourprofile) or email.
+If you have any questions or would like to discuss my work, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nanamorgan) or email.
