@@ -21,7 +21,15 @@ Portfolio of data science projects completed for academic and professional devel
   *Tools: Python, scikit-learn, pandas, pybaseball*
 
 ---
-
+ 
+## Survival Analysis & Sports Analytics
+ 
+- **[The Waiting Game: Survival Analysis of MLB Home Run Droughts](https://github.com/nananmorgan/mlb-tatis-hr-drought-analysis)**: Applied Cox Proportional Hazards modeling to quantify the statistical anomaly of Fernando Tatis Jr.'s 2026 home run drought using Statcast plate appearance data. Built Kaplan-Meier survival curves and a Cox model (concordance = 0.773) to show that his launch angle collapse (-82.6%) and barrel rate decline (-55.4%) predict a median drought more than twice his career baseline, while his exit velocity remained essentially unchanged. The model places the probability of his 180-PA drought at 3.96% even after adjusting for his 2026 profile.  
+ 
+  *Tools: Python, lifelines, pybaseball, pandas, matplotlib, seaborn* 
+ 
+--- 
+  
 ## Data Analysis & Visualization
 
 - **[Childcare Stipend ROI: A Data-Driven Business Case](https://github.com/nananmorgan/childcare-stipend-roi)**: Analyzed the National Database of Childcare Prices to quantify affordability gaps across CA and WA counties, built a priority matrix, and modeled ROI of employer-sponsored childcare stipends. Delivered via PowerPoint, a one-page executive brief, and an interactive Power BI ROI dashboard.
